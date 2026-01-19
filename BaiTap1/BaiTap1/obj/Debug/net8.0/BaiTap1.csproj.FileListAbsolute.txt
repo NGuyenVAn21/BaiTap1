@@ -1,0 +1,15 @@
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\bin\Debug\net8.0\BaiTap1.exe
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\bin\Debug\net8.0\BaiTap1.deps.json
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\bin\Debug\net8.0\BaiTap1.runtimeconfig.json
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\bin\Debug\net8.0\BaiTap1.dll
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\bin\Debug\net8.0\BaiTap1.pdb
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfoInputs.cache
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfo.cs
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.csproj.CoreCompileInputs.cache
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.sourcelink.json
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.dll
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\refint\BaiTap1.dll
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.pdb
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\BaiTap1.genruntimeconfig.cache
+D:\Nam_3\Ki_II\BaiTap1\BaiTap1\obj\Debug\net8.0\ref\BaiTap1.dll
